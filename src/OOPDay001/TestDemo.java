@@ -26,5 +26,6 @@ public class TestDemo {
 		tobj.fun();
 		System.out.println(tobj.fname + " " + tobj.lname + " is " + tobj.age);
 		obj.display();
+		//The dot (.) is used to access the object's attributes and methods.
 	}
 }
